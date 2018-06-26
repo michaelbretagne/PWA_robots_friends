@@ -8,5 +8,5 @@ Audit performed by **Lighthouse** in **Chrome DevTools**.<br />
 
 <br />
 <p align="center">
-  <img src="/public/lighthouse_audit_score.png" width="700px" />
+  <img src="./lighthouse_audit_score.png" width="700px" />
 </p>
