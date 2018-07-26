@@ -1,6 +1,7 @@
 # PWA_robots_friends
 
 Turned an existing website into a PWA (**Progressive Web Application**).<br />
+Add **Enzyme** suites test and **circleci** to project.<br />
 Audit performed by **Lighthouse** in **Chrome DevTools**.<br />
 
 **PWA** score **before** optimization: **80**.<br />
